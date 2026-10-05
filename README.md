@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="logo.png" alt="Project Logo" width="120" height="120" />
-  <h1>Your Project Name</h1>
-  <p>Short tagline describing what your project does.</p>
+  <!-- Specifying height="100" preserves the 486x384 aspect ratio perfectly -->
+  <img src="NeoGenGUI.png" alt="NeoGen GUI" height="100" />
+  <h1>NeoGen GUI</h1>
+  <p>All-In-One Modding Toolkit for GTA V PS4 Modding</p>
 </div>
 
 # NeoGen
