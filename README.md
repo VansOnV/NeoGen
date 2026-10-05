@@ -18,12 +18,6 @@ Modding Grand Theft Auto V on the Playstation 4 is now possible! With the help o
 
 <small>
 
-| vcWXML | Description |
-| Embedded Textures Removal| Models with embedded textures are currently UNSUPPORTED! Thats why modders have been creative and instead removed them from the model |
-| Embedded Textures to .otd | Fixes Texture Issues! |
-
-_Embedded Textures have been worked on already. Its possible, but unstable. Im sure we will have it working soon!_
-
 
 | Conversion Pair | Description |
 | :--- | :--- |
@@ -42,6 +36,11 @@ _Embedded Textures have been worked on already. Its possible, but unstable. Im s
 | `.yvr` ⇄ `.ovr` | Vehicle recording data |
 | `.ywr` ⇄ `.owr` | Waypoint recordings |
 | `.ypdb` ⇄ `.opdb` | Pose matching databases |
+| vcWXML | Description |
+| Embedded Textures Removal| Models with embedded textures are currently UNSUPPORTED! Thats why modders have been creative and instead removed them from the model |
+| Embedded Textures to .otd | Fixes Texture Issues! |
+
+_Embedded Textures have been worked on already. Its possible, but unstable. Im sure we will have it working soon!_
 
 </small>
 
@@ -60,6 +59,7 @@ _Embedded Textures have been worked on already. Its possible, but unstable. Im s
 | `.ytyp` ⇄ `.otyp` | Archetype definitions |
 | `.ymt` ⇄ `.omt` | Game metadata files |
 | `.ymf` ⇄ `.omf` | Manifest files |
+
 
 </small>
 
