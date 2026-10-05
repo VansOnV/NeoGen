@@ -20,6 +20,7 @@ Modding Grand Theft Auto V on the Playstation 4 is now possible! With the help o
 
 | Conversion Pair | Description |
 | :--- | :--- |
+| `.ytd` > `.otd` | Texture Dictionary (Also has custom compression options) |
 | `.yft` ⇄ `.oft` | Fragment models (vehicles, destructible objects) |
 | `.ydr` ⇄ `.odr` | Drawable models (props, components) |
 | `.ydd` ⇄ `.odd` | Drawable dictionaries (multi-model collections) |
@@ -87,6 +88,25 @@ Modding Grand Theft Auto V on the Playstation 4 is now possible! With the help o
 | Feature | Description |
 | :--- | :--- |
 | **All .RPF Support** | Supports PC/PS4/PS5 Encrypted/Unencryped RPFs, except Enhanced!!! |
+
+</small>
+
+</details>
+
+## ⚙️ PC to PS4 DLC (Add-On) Patcher
+
+<details>
+<summary><b>🩹 DLC Patcher</b></summary>
+<br>
+
+<small>
+
+*Patch any PC Add-On (dlc.rpf) to a PS4-Compatible Add-On.*
+
+| Feature | Description |
+| :--- | :--- |
+| **Automatic & Batch Conversion** | Add-On/s will be converted and patched, to be PS4-Compatible. |
+| **Custom Compression** | Lets you choose between configs to compress Texture Dictionaries (.ytd) to a maximum size value for optimization. |
 
 </small>
 
