@@ -18,6 +18,13 @@ Modding Grand Theft Auto V on the Playstation 4 is now possible! With the help o
 
 <small>
 
+| vcWXML | Description |
+| Embedded Textures Removal| Models with embedded textures are currently UNSUPPORTED! Thats why modders have been creative and instead removed them from the model |
+| Embedded Textures to .otd | Fixes Texture Issues! |
+
+_Embedded Textures have been worked on already. Its possible, but unstable. Im sure we will have it working soon!_
+
+
 | Conversion Pair | Description |
 | :--- | :--- |
 | `.ytd` > `.otd` | Texture Dictionary (Also has custom compression options) |
@@ -107,6 +114,26 @@ Modding Grand Theft Auto V on the Playstation 4 is now possible! With the help o
 | :--- | :--- |
 | **Automatic & Batch Conversion** | Add-On/s will be converted and patched, to be PS4-Compatible. |
 | **Custom Compression** | Lets you choose between configs to compress Texture Dictionaries (.ytd) to a maximum size value for optimization. |
+
+</small>
+
+</details>
+
+## 👥 Add-On Ped Builder
+
+<details>
+<summary><b>🧍🏻 Ped to Add-On</b></summary>
+<br>
+
+<small>
+
+*Turn your custom ped files into a working add-on.*
+
+| Feature | Description |
+| :--- | :--- |
+| **Multiple Ped Support** | Supports multiple peds and custom gender for each ped. |
+| **Custom Add-On Name** | Add your own custom ped name, and custom output add-on name. |
+| **Custom Compression** | Lets you choose between configs to compress Texture Dictionaries (`.ytd`) to a maximum size value for optimization. |
 
 </small>
 
