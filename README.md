@@ -185,7 +185,7 @@ _Embedded Textures have been worked on already. Its possible, but unstable. Im s
 
 </details>
 
-## Setup
+# Setup
 
 1. Extract the .zip archive
 2. Run ***NeoGen_Dependencies.py*** script, let it run until it is done.
@@ -195,3 +195,8 @@ _Embedded Textures have been worked on already. Its possible, but unstable. Im s
 4. Run ***NeoGen.py***
 ```python NeoGen.py```
 5. Enjoy! For more questions message me in discord, or directly in the server.
+
+# Credits
+- rfoodxmodz
+- VansOnV / Vans
+- To creators who greatly contributed to this tool
