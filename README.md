@@ -184,3 +184,14 @@ _Embedded Textures have been worked on already. Its possible, but unstable. Im s
 </small>
 
 </details>
+
+## Setup
+
+1. Extract the .zip archive
+2. Run ***NeoGen_Dependencies.py*** script, let it run until it is done.
+```python NeoGen_Dependencies.py```
+3. **Optional** Run ***vcwXML_Installer.py*** to install vcwXML (for removing embedded textures)
+```python vcwXML_Installer.py```
+4. Run ***NeoGen.py***
+```python NeoGen.py```
+5. Enjoy! For more questions message me in discord, or directly in the server.
