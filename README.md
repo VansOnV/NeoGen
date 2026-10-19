@@ -138,3 +138,25 @@ _Embedded Textures have been worked on already. Its possible, but unstable. Im s
 </small>
 
 </details>
+
+## 🚗 Vehicle Merging
+
+<details>
+<summary><b>Combine multiple unconverted (PC) Vehicle Add-Ons into one!</b></summary>
+<br>
+
+<small>
+
+*.*
+
+| Feature | Description |
+| :--- | :--- |
+| **Custom Vehicle Name** | Will prompt user if they want to have a custom name for their vehicle. |
+| **Custom Add-On Name** | Add your own custom ped name, and custom output add-on name. |
+| **Custom Compression** | Lets you choose between configs to compress Texture Dictionaries (`.ytd`) to a maximum size value for optimization. |
+| **Multiple Vehicle Support** |Supports more than 2 vehicle add-ons. |
+| **Automatic Rename** | Will only work if mode was set to "replace" in settings.ini. Will use the first word from the mod folder name to rename the vehicle to that name. |
+
+</small>
+
+</details>
