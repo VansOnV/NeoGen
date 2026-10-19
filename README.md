@@ -160,3 +160,27 @@ _Embedded Textures have been worked on already. Its possible, but unstable. Im s
 </small>
 
 </details>
+
+</details>
+
+## ™️ Extra Features
+
+<details>
+<summary><b>Extra Useful Features!</b></summary>
+<br>
+
+<small>
+
+*.*
+
+| Feature | Description |
+| :--- | :--- |
+| **Extract DDS** | Extract DDS Files from 1 or more .YTD Texture Dictionary Files. |
+| **Build YTD** | Build multiple .YTD Files from 1 or more folders. |
+| **Build OTD** | Build multiple .OTD Files from 1 or more folders. |
+| **Compress DDS** | Compress DDS Files inside different folders to a set config. |
+| **Config Creator** | Create configs for DDS Upscaling/Downscaling. |
+
+</small>
+
+</details>
