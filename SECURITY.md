@@ -9,7 +9,7 @@ Only the latest release receives fixes.
 Please **don't open a public issue** for security problems.
 
 - If GitHub's private vulnerability reporting is enabled for this repository, use **Security → Report a vulnerability**.
-- Otherwise, contact the maintainer (VansOnV) privately on [Discord](https://discord.gg/buC9W643tQ).
+- Otherwise, contact the maintainer (VansOnV) privately on Discord. Join [Oysters | GTA & RDR2](https://discord.gg/buC9W643tQ) or [ReVans [GTAV PS4]](https://discord.gg/wtqeujmEdf) and send a direct message.
 
 Include what you found, how to reproduce it, and the version (Settings → About & Maintenance). You'll get a reply as soon as the maintainer can.
 

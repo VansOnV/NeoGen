@@ -32,11 +32,11 @@ Community leaders have the right and responsibility to remove, edit, or reject c
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. This includes this repository, its issues and pull requests, and the project's Discord server.
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. This includes this repository, its issues and pull requests, and the project's Discord servers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement by messaging the maintainer (VansOnV) privately on [Discord](https://discord.gg/buC9W643tQ). All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement by messaging the maintainer (VansOnV) privately on Discord ([Oysters | GTA & RDR2](https://discord.gg/buC9W643tQ) or [ReVans [GTAV PS4]](https://discord.gg/wtqeujmEdf)). All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 

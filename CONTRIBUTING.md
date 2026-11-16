@@ -67,4 +67,4 @@ Bump the version in `app/version.py` and add a section to `CHANGELOG.md` before 
 
 ## Questions
 
-Ask on [Discord](https://discord.gg/buC9W643tQ).
+Ask on Discord: [Oysters | GTA & RDR2](https://discord.gg/buC9W643tQ) or [ReVans [GTAV PS4]](https://discord.gg/wtqeujmEdf).
